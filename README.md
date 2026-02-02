@@ -40,14 +40,13 @@ This project focuses on evaluating financial performance, supporting informed de
 ## 📈 Analytical Reports
 The project includes the following financial reports:
 
-###  P&L – Fiscal Year 
+###  P&L – Fiscal Year (https://github.com/RICHAPAREEK/Excel-Finance-Analytics/blob/main/P%26L%20Fiscal%20Year.pdf)
 - Year-wise financial performance
 - Comparison across fiscal years
 - Year-over-Year (YoY) analysis
 
 ###  P&L – Fiscal Month (https://github.com/RICHAPAREEK/Excel-Finance-Analytics/blob/main/P%26L%20Fiscal%20Months.pdf)
 - Month-wise financial trends within fiscal years
-- Seasonal performance analysis
 - Detailed profitability tracking
 
 ---
